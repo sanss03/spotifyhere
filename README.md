@@ -23,7 +23,7 @@ This project helped me:
 
  Learning Experience
 While building this, I learned how small UI elements can make a big difference.
-This was a stepping stone for me to build more advanced, interactive projects for programs like GirlScript Summer of Code (GSSoC).
+This was a stepping stone for me to build more advanced, interactive projects for open source programs.
 
  Feedback
 
